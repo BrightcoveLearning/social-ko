@@ -1,0 +1,63 @@
+- section:
+  name: 집
+  url: /index.html
+- section:
+  name: 얻기시작
+  url: /get-started/index.html
+  icon: '<img class="bcls-icon" src="/assets/images/feather/play.svg">'
+  docs:
+    - name: 소셜 시작하기
+      url: /get-started/getting-started-brightcove-social.html
+    - name: 사회 교육 비디오
+      url: /get-started/social-training-videos.html
+- section:
+  name: 일반 정보
+  icon: '<i data-feather="info"></i>'
+  url: /general/index.html
+  docs:
+    - name: 게시 대상 만들기
+      url: /general/creating-social-media-publishing-destinations.html
+    - name: 비디오 클립 만들기
+      url: /general/creating-video-clip-using-brightcove-social.html
+    - name: 소셜 미디어에 비디오 게시
+      url: /general/publishing-videos-social-media-platforms.html
+    - name: 비디오에 대한 개인 정보 상태 설정
+      url: /general/setting-privacy-status-video.html
+    - name: 자동 동기화 사용
+      url: /general/using-auto-sync-synchronize-videos-social-media-accounts.html
+    - name: 소셜 미디어에 게시 된 비디오보기
+      url: /general/viewing-videos-published-social-media.html
+- section:
+  name: 분석 검토
+  url: /analytics/index.html
+  docs:
+    - name: 소셜 분석 검토
+      url: /analytics/reviewing-social-analytics.html
+    - name: 소셜 참여 분석 검토
+      url: /analytics/reviewing-social-engagement-analytics.html
+    - name: 소셜 뷰 분석 검토
+      url: /analytics/reviewing-social-views-analytics.html
+- section:
+  name: 개발자
+  url: /develop/index.html
+  docs:
+    - name: '개요: Social API'
+      url: /develop/overview-social-api.html
+    - name: '빠른 시작: Social API'
+      url: /develop/quick-start-social-api.html
+    - name: '소셜 API 참조'
+      url: /develop/reference.html
+    - name: '소셜 API: 오류 참조'
+      url: /develop/social-api-error-reference.html
+- section:
+  name: 지원하다
+  url: /support/index.html
+  docs:
+    - name: 'Brightcove 시스템 상태 페이지보기'
+      url: '/support/viewing-brightcove-system-status-page.html'
+    - name: '영업팀에 문의'
+      url: '/support/contact-sales.html'
+    - name: '지원 사례 열기'
+      url: '/support/opening-case-with-brightcove-support.html'
+    - name: '지원 포털 비밀번호 재설정'
+      url: '/support/reset-support-portal-password.html'
